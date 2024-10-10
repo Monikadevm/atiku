@@ -1,0 +1,336 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;800&display=swap');
+body {font-family: 'Poppins', sans-serif !important;}
+.nv { padding: 4px 0px;}
+
+.do_n {
+    display: none !important;
+}
+
+h1.entry-title {
+    display: none;
+}
+a:hover {text-decoration:none !important;}
+nav#wp-megamenu-primary {
+    background: none !important;
+}
+.current-menu-item a {
+    border-bottom: 4px solid;
+    color: #008751 !important;
+}
+#menu-top a {
+	    text-transform: capitalize !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin: 0px 20px !important;
+}
+.bnr_1 h2 {
+    font-size: 46px;
+    color: #2E3D44;
+    font-weight: 700;
+}
+span.rd {
+    color: #ED1C24;
+}
+.hm_sc2 h5, .bnr_1 h4 {
+    color: #ED1C24;
+    font-weight: 700;
+    font-size: 22px;
+}
+.hm_sc2 h2 {
+    color: #2E3D44;
+    font-size: 36px;
+    font-weight: 700;
+}
+.hm_sc2 p {
+    color: #7A7A7A;
+    font-size: 14px;
+    line-height: 20px;
+}
+.bnr_1 p {
+	width: 65%;
+	font-weight: 500;
+    color: #000;
+    font-size: 14px;
+}
+.bnr_1 a, .hm_sc2 a {
+    font-size: 12px;
+    color: #fff;
+    background: #008751;
+    padding: 12px 35px 12px 24px;
+    font-weight: 600;
+    border-radius: 5px;
+	top: 25px;
+    position: relative;
+}
+a.bkk {
+    position: relative;
+    left: 32%;
+    top: 3px;
+}
+.evt {
+    background: #fff;
+    height: 232px;
+    padding: 35px 0px;
+}
+.evt h6 {
+	padding-left: 12px;
+    font-size: 14px;
+    color: #008751;
+    font-weight: 700;
+    border-bottom: 4px solid;
+    padding-bottom: 15px;
+}
+.evt p {
+    padding-left: 12px;
+    font-weight: 500;
+    color: #2E3D44;
+    font-size: 13px;
+}
+.evnt_sc a {
+    font-size: 12px;
+    color: #fff;
+    background: #ED1C24;
+    padding: 12px 40px 12px 24px;
+    font-weight: 600;
+    border-radius: 5px;
+    top: 8px;
+    position: relative;
+}
+.evnt_sc h2 {
+    color: #fff;
+    font-size: 35px;
+    font-weight: 700;
+}
+.ev_p p {
+    width: 60%;
+    color: #fff;
+    font-size: 14px;
+    margin: 0px auto;
+}
+.a_frm input {
+    display: flex;
+    font-size: 12px;
+    width: 100%;
+    font-family: 'Poppins', sans-serif !important;
+    border: 1px solid #ED1C24;
+    padding: 10px 10px 10px 16px;
+}
+.a_frm h3 {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 24px;
+}
+.a_frm .wpcf7-submit {
+	display: block;
+    background: #fff;
+    text-align: center !important;
+    border: none;
+}
+.cnt_frm .vc_col-sm-8 {
+    width: 65% !important;
+    margin-left: 19px !important;
+}
+.site_logo img {
+    position: absolute;
+    z-index: 999;
+}
+.bn_1 {
+    position: relative;
+    left: 110px;
+    top: 50px;
+}
+.bn_2 img {
+    position: relative;
+    top: 76px;
+    right: 40px;
+}
+.su_at {
+	margin: 0px 22px;
+    border-radius: 6px;
+    background: #ed1c24;
+}
+.su_at a {
+    padding: 8px !important;
+    color: #fff !important;
+}
+.do_n {
+    margin: 0px 15px;
+    border-radius: 6px;
+    background: #008751;
+}
+.do_n a {
+    padding: 8px !important;
+    color: #fff !important;
+}
+.bnr_1 a:after {
+    content: '\f14a';
+    font-family: fontawesome;
+    position: relative;
+    left: 16px;
+    top: 2px;
+    font-size: 18px;
+}
+.footer-nav-widgets-wrapper.header-footer-group {
+    text-align: center !important;
+    background: #2E3D44 !important;
+    padding: 50px 0px !important;
+}
+.ftr_m i {
+    padding: 0px 12px;
+    font-family: 'FontAwesome';
+    color: #fff;
+    font-style: normal;
+    font-size: 24px;
+}
+ul.ftr_m {
+    padding: 20px 0px;
+    display: inline-flex;
+    list-style: none;
+}
+.do_na a {
+   padding: 8px 27px 8px 20px;
+    border-radius: 5px;
+    background: #008751;
+    color: #fff !important;
+}
+.do_na {
+    margin: 40px 0px 20px;
+}
+ul#menu-ftr {
+	padding: 0px;
+    display: inline-flex;
+    list-style: none;
+}
+#menu-ftr a {
+    color: #fff;
+    padding: 0px 20px;
+}
+#menu-ftr a {
+    color: #fff;
+    padding: 0px 20px;
+}
+
+#menu-ftr .current-menu-item a {
+    border-bottom: none;
+    color: #fff !important;
+}
+p.cp_r {
+    color: #fff;
+    font-size: 12px;
+    margin: 16px 0px 0px;
+}
+.hm_sc2 a:after, .evnt_sc a:after {
+    content: '\f14a';
+    font-family: fontawesome; 
+    position: relative;
+    left: 16px;
+    top: 2px;
+    font-size: 18px;
+}
+.do_na a:after {
+    content: '\f1d8';
+    font-family: fontawesome;
+    position: relative;
+    left: 8px;
+    top: -1px;
+    font-size: 18px;
+}
+.vd_sc {
+    top: -162px !important;
+}
+.to_im {
+    margin-bottom: 0px !important;
+}
+.why_sc2 p {
+    color: #fff;
+    font-size: 14px;
+}
+.why_sc2 h4 {
+    font-size: 26px;
+    color: #fff;
+    font-weight: 700;
+}
+.why_sc1_im img {
+    width: 80% !important;
+}
+.why_sc1 .vc_column-inner {
+    padding-top: 0px !important;
+}
+.why_sc1_im {
+    margin-bottom: 0px !important;
+}
+.why_bnr h2 {
+    font-size: 48px;
+    font-weight: 700;
+}
+.pst_p .vc_gitem-is-link {
+    height: 225px !important;
+}
+	.vc_gitem-zone.vc_gitem-zone-c {
+    background: transparent !important;
+}
+	.pst_p h4 {
+    font-size: 22px;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+.pst_p p {
+    font-size: 14px;
+    color: #2F2F2F;
+}
+.pst_p a.vc_general.vc_btn3 {
+    color: #ED1C24;
+    font-weight: 700;
+    letter-spacing: .5px;
+    background: transparent;
+    padding-left: 0px;
+}
+
+
+
+/************************************ responsive ***************************************/
+
+ /* ------------------------- phn ------------------------*/
+@media only screen and (max-width: 767px) {
+	.bn_1 {
+    left: 0px;
+}
+	.vd_sc {
+    top: -100px !important;
+}
+	.cnt_frm .vc_col-sm-8 {
+    width: auto !important;
+ }
+	.hm_sc2 h2 {
+    font-size: 32px;
+}
+	.ev_p p {
+		width: 100%;
+	}
+	.bn_1 {
+    left: 0px;
+}
+	.bnr_1 p {
+    width: 100%;
+	}	
+	.bn_1 .vc_empty_space {
+    display: none;
+}
+	.evnt_sc h2 {
+    font-size: 28px;
+}
+	.why_bnr .vc_empty_space {
+    height: 36px !important;
+}
+	.why_bnr h2 {
+    font-size: 36px;
+}
+	.bn_1 .vc_empty_space {
+    display: none;
+}
+	a.bkk {
+    left: 50%;
+}
+	
+}
+/* -------------------------- phn end -----------------*/
